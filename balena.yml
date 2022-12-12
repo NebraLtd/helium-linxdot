@@ -24,7 +24,7 @@ assets:
       url: >-
         https://cdn.shopify.com/s/files/1/0071/2281/3001/files/Nebra-Icon-Blue_bb758eaa-b10d-4ea6-a55e-babd69135b69.png?v=1620938774
 data:
-  defaultDeviceType: raspberrypi4-64
+  defaultDeviceType: raspberrypicm4-ioboard
   supportedDeviceTypes:
-    - raspberrypi4-64
+    - raspberrypicm4-ioboard
 version: 0.0.1
