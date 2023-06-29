@@ -1,4 +1,4 @@
-![Helium Linxdot CM4 Firmware Repo Header](https://cdn.shopify.com/s/files/1/0071/2281/3001/files/Nebra-Firmware-Github-Header-Linxdot_11e27648-6fb6-454f-91d4-881bb64d4fd5.png?v=1688030309)
+![Helium Linxdot CM4 Firmware Repo Header](https://cdn.shopify.com/s/files/1/0071/2281/3001/files/Nebra-Firmware-Github-Header-Linxdot_a5d31b8a-8bc7-4a7f-908a-f1dca1debe9e.png?v=1688030695)
 
 # helium-linxdot
 Nebra OpenFleet for Linxdot CM4 Miners
